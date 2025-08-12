@@ -1,4 +1,4 @@
-package interface1;
+package interface2;
 
 public class FunctionalDemo {
 

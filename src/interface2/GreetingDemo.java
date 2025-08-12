@@ -1,4 +1,4 @@
-package interface1;
+package interface2;
 
 @FunctionalInterface
 public interface GreetingDemo {
